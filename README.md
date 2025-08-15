@@ -1,7 +1,7 @@
 <h1 align="center">🚀 FabriDevelope</h1>
 <p align="center">
   🧠 Developer • 🕹️ Gamer • 🧰 Builder of ideas<br>
-  <strong>Apasionado por el código, la tecnología y las comunidades con onda.</strong>
+  <strong>Apasionado por el código, la tecnología y la buena onda.</strong>
 </p>
 
 ---
@@ -9,38 +9,20 @@
 ### 👋 Sobre mí
 
 - 💻 Full-time curioso del desarrollo web
-- 🛠️ Proyectos con identidad, desde ideas simples hasta cosas re turbias (pero legales 😎)
-- 🎮 Fundador de [ZONAR](https://zonar.netlify.app) – Comunidad Gamer & Tech Argentina
+- 🎮 Gamer con pasión por CS2 y setups épicos
 - 📚 Aprendiendo siempre algo nuevo... y compartiéndolo
-
----
-
-### 🌐 Conectá conmigo
-
-- 🧠 [ZONAR - Sitio Oficial](https://zonar.netlify.app)
-- 🎧 [ZONAR - Discord](https://discord.gg/n5bNjgR5ZC)
-- 🐙 [Mis repos en GitHub](https://github.com/FabriDevelope)
+- 🌐 Todo mi mundo en un solo link: [Mi Linktr.ee](https://linktr.ee/Fabrrooo)
 
 ---
 
 ### ⚙️ Stack actual
 
-```yaml
+\```yaml
 Lenguajes:        HTML, CSS, JS, Python
 Frameworks:       Node.js, Flask, Tailwind (a veces)
 IDE favorito:     VS Code 🧪
 Diseño:           Figma, Canva y fuerza de voluntad
-```
-
----
-
-### 🧪 Proyectos destacados
-
-| Proyecto | Descripción |
-|---------|-------------|
-| 🔗 [Zonar](https://zonar.netlify.app) | Sitio oficial de una comunidad gamer con foco en cultura tech |
-| 🧱 [Inyector DLL GUI](#) | Proyecto educativo para inyección de DLLs (ciberseguridad legal) |
-| 💡 [Ideas random](#) | Pequeños labs, tests, y cosas que no deberían funcionar pero funcionan |
+\```
 
 ---
 
