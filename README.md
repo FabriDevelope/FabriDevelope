@@ -17,7 +17,7 @@
 
 ### ⚙️ Stack actual
 
-\```yaml
+\```
 Lenguajes:        HTML, CSS, JS, Python
 Frameworks:       Node.js, Flask, Tailwind (a veces)
 IDE favorito:     VS Code 🧪
