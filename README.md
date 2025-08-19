@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fabrizio&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Ciberseguridad%20|%20Servidores%20|%20Programación%20%descAlignY=55&descAlign=50)
+![Fabrizio](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Fabrizio&fontSize=60&animation=fadeIn&fontAlignY=35&desc=Ciberseguridad%20|%20Servidores%20|%20Programaci%C3%B3n&descAlignY=55&descAlign=50)
 
 <h1 align="center">👋 Soy Fabri</h1>
 
