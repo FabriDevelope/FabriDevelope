@@ -18,7 +18,7 @@
 <p align="center">───────────────────────────────</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=🌐+Redes+&+Servidores;🛡️+Ciberseguridad;⚡+Programación+·+Python+·+HTML,+CSS+y+JS;🚀+Siempre+aprendiendo" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&duration=3500&pause=1000&color=00FF99&center=true&vCenter=true&width=700&lines=%F0%9F%8C%90+Redes+%26+Servidores%3B%F0%9F%9B%A1%EF%B8%8F+Ciberseguridad%3B%E2%9A%A1+Programaci%C3%B3n+%C2%B7+Python+%C2%B7+HTML%2C+CSS+y+JS%3B%F0%9F%9A%80+Siempre+aprendiendo" />
 </p>
 
 ---
@@ -29,7 +29,7 @@
   `HTML` · `CSS` · `JS` · `Python`
 
 - 🤓 Me gusta:  
-  Jugar CS2 · Programación · Ciberseguridad · Redes · Servidores · 
+  Jugar CS2 · Programación · Ciberseguridad · Redes · Servidores
 
 ---
 
