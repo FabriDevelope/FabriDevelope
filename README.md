@@ -69,13 +69,4 @@
 
 ---
 
-
-![Visitas](https://komarev.com/ghpvc/?username=FabriDevelope&label=Profile%20Views&color=00ff99&style=flat)
-![Status](https://img.shields.io/badge/Always%20Coding-%E2%9C%94-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Cyber%20security-%F0%9F%92%80-blueviolet?style=for-the-badge)
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="500">
-</p>
-
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer)
