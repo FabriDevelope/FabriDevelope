@@ -1,13 +1,13 @@
 <p align='center'><img src="resources/top.svg"></p>
 
 <p align='center'>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=500&height=35&lines=Bienvenido+a+mi+perfil;Soy+FabriDevelope;Programador+%7C+Baterista+%7C+CEO+de+FbP">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=500&height=35&lines=Bienvenido+a+mi+perfil;Soy+FabriDevelope;Programador+%7C+Baterista+%7C+CEO+de+nudp">
 </p>
 
 <p align='center'>
   <a href="https://discordapp.com/users/798503509522645012/"><img src="resources/discord.svg" width="30" height="30"></a>
   <a href="https://github.com/FabriDevelope"><img src="resources/github.svg" width="30" height="30"></a>
-  <a href="https://fbp-systems.netlify.app/"><img src="resources/google.svg" width="30" height="30"></a>
+  <a href="https://nudp.netlify.app/"><img src="resources/google.svg" width="30" height="30"></a>
 </p>
 
 <p align='center'><img src="resources/line.svg" width="750" ></p>
