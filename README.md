@@ -1,7 +1,7 @@
 <p align='center'><img src="resources/top.svg"></p>
 
 <p align='center'>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=500&height=35&lines=Bienvenido+a+mi+perfil;Soy+FabriDevelope;Programador+%7C+Baterista+%7C+CEO+de+nudp">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=500&height=35&lines=Bienvenido+a+mi+perfil;Soy+FabriDevelope;Programador+%7C+Baterista+%7C+CEO+de+FbP">
 </p>
 
 <p align='center'>
@@ -17,10 +17,9 @@
 </p>
 
 <p align='center'>
-  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,js,html,css,cpp,json,bash,mysql,markdown&theme=nautilus" width="800">
+  <img src="https://github-widgetbox.vercel.app/api/skills?languages=python,html,css,js&theme=nautilus" width="800">
 </p>
 
-<!-- Opcional: stats bonitos -->
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api/?username=FabriDevelope&rank_icon=github&show_icons=true&hide_rank=true&theme=tokyonight&border_color=162238&bg_color=162238&text_color=BFBFBF&title_color=EAB622&border_radius=15" height="200">
   &nbsp;&nbsp;&nbsp;
