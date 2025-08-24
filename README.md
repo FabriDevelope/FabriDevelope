@@ -1,7 +1,7 @@
 <p align='center'><img src="resources/top.svg"></p>
 
 <p align='center'>
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=500&height=35&lines=Bienvenido+a+mi+perfil;Soy+FabriDevelope;Programador+%7C+Baterista+%7C+CEO+de+nudp">
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&pause=1000&color=4493F8&center=true&random=false&width=500&height=35&lines=Bienvenido+a+mi+perfil;Soy+FabriDevelope;Baterista+%7C+Programador+%7C+CEO+de+nudp">
 </p>
 
 <p align='center'>
