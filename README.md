@@ -5,9 +5,9 @@
 </p>
 
 <p align='center'>
-  <a href="https://discordapp.com/users/798503509522645012/"><img src="resources/discord.svg" width="30" height="30"></a>
-  <a href="https://github.com/FabriDevelope/FDCompiler-v1.4/releases/tag/Compiler"><img src="resources/github.svg" width="30" height="30"></a>
-  <a href="https://nudp.netlify.app/"><img src="resources/google.svg" width="30" height="30"></a>
+  <a href="https://discordapp.com/users/798503509522645012/" target="_blank"><img src="resources/discord.svg" width="30" height="30"></a>
+  <a href="https://github.com/FabriDevelope/FDCompiler-v1.4/releases/tag/Compiler" target="_blank"><img src="resources/github.svg" width="30" height="30"></a>
+  <a href="https://nudp.netlify.app/" target="_blank"><img src="resources/google.svg" width="30" height="30"></a>
 </p>
 
 <p align='center'><img src="resources/line.svg" width="750" ></p>
